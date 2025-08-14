@@ -1,10 +1,16 @@
 {
-    version: 1,
-    app: 'com.sunnyinnolab.triplesum',
-    ads: {
-      rewarded: {
-        android: 'ca-app-pub-3506417530430977/8271179517',
-        ios: 'ca-app-pub-3506417530430977/5254133930',
+  "version": 1,
+  "app": "com.sunnyinnolab.triplesum",
+  "ads": {
+    "rewarded": {
+      "android": {
+        "prod": "ca-app-pub-3506417530430977/8271179517",
+        "debug": "ca-app-pub-3940256099942544/5224354917"
       },
-    },
+      "ios": {
+        "prod": "ca-app-pub-3506417530430977/5254133930",
+        "debug": "ca-app-pub-3940256099942544/1712485313"
+      }
+    }
+  }
 }

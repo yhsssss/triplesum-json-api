@@ -1,0 +1,10 @@
+{
+    version: 1,
+    app: 'com.sunnyinnolab.triplesum',
+    ads: {
+      rewarded: {
+        android: 'ca-app-pub-3506417530430977/8271179517',
+        ios: 'ca-app-pub-3506417530430977/5254133930',
+      },
+    },
+}
